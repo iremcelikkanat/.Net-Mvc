@@ -1,0 +1,20 @@
+﻿@using BusinessLayer
+@using Entities
+@{
+    TagManager tag = new TagManager();
+    List<Tag> list = tag.GetTag();
+}
+<div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
+    <div class="count-box">
+        
+        <a href="/Home/Index">Tümü</a>
+            @foreach (Tag item in list)
+            {<div class="row no-gutters">
+    <a href="Home/GetTag/@item.Id" alt="@item.Description">@item.Title</a>
+</div>  }
+
+    </div>
+</div>
+
+
+

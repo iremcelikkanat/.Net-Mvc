@@ -1,0 +1,15 @@
+C:\Users\kanat\source\repos\Net-Mvc-Project\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\kanat\source\repos\Net-Mvc-Project\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\kanat\source\repos\Net-Mvc-Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\kanat\source\repos\Net-Mvc-Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kanat\source\repos\Net-Mvc-Project\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\kanat\source\repos\Net-Mvc-Project\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\kanat\source\repos\Net-Mvc-Project\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\kanat\source\repos\Net-Mvc-Project\DataAccessLayer\bin\Debug\Entities.dll
+C:\Users\kanat\source\repos\Net-Mvc-Project\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\kanat\source\repos\Net-Mvc-Project\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kanat\source\repos\Net-Mvc-Project\DataAccessLayer\bin\Debug\Entities.pdb
+C:\Users\kanat\source\repos\Net-Mvc-Project\DataAccessLayer\bin\Debug\Entities.dll.config
+C:\Users\kanat\source\repos\Net-Mvc-Project\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\kanat\source\repos\Net-Mvc-Project\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kanat\source\repos\Net-Mvc-Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
